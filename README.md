@@ -24,4 +24,3 @@ python todo.py
 
 ## 👩‍💻 Author
 Diksha  
-CodSoft Internship
