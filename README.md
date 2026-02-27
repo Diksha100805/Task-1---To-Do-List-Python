@@ -21,6 +21,3 @@ It helps users manage daily tasks efficiently.
 4. Run:
 
 python todo.py
-
-## 👩‍💻 Author
-Diksha  
